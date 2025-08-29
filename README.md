@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Download URLs are not yet published, this is a placeholder
+
 # CallTo365 Softphone  
 
 CallTo365 Softphone is the official client to make and receive calls with **CallTo365**.  
