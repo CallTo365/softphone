@@ -13,7 +13,7 @@ It brings seamless calling across **Windows**, **macOS (Intel & Apple Silicon)**
 - **macOS (Apple Silicon)**: [Download PKG](https://raw.githubusercontent.com/CallTo365/softphone/main/binaries/CallTo365_1.0.0_arm64_signed.pkg?download=)
 
 ### Mobile  
-<p align="left">
+<!--<p align="left">
   <a href="https://apps.apple.com/app/callto365-softphone/id6747883276" target="_blank">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="60"/>
   </a>
@@ -22,7 +22,7 @@ It brings seamless calling across **Windows**, **macOS (Intel & Apple Silicon)**
   <a href="https://play.google.com/store/apps/details?id=4976216304258537453" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="60"/>
   </a>
-</p>  
+</p> -->
 
 ---
 
