@@ -6,7 +6,7 @@ It brings seamless calling across **Windows**, **macOS (Intel & Apple Silicon)**
 ---
 
 ## 📥 Downloads  
-https://github.com/CallTo365/softphone/raw/refs/heads/main/binaries/365ONE-1.0.0.0~54fe74540c0-x64.exe?download=
+
 ### Desktop  
 - **Windows**: [Download Installer](https://github.com/CallTo365/softphone/raw/refs/heads/main/365ONE-1.0.0.0~54fe74540c0-x64.exe)
 - **macOS (Intel)**: [Download PKG](https://github.com/CallTo365/softphone/raw/refs/heads/main/CallTo365_1.0.0_x86_signed.pkg)
