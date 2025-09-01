@@ -14,12 +14,12 @@ It brings seamless calling across **Windows**, **macOS (Intel & Apple Silicon)**
 
 ### Mobile  
 <p align="left">
-  <a href="https://apps.apple.com/app/idYOUR_APPLE_APP_ID" target="_blank">
+  <a href="https://apps.apple.com/app/callto365-softphone/id6747883276" target="_blank">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="60"/>
   </a>
 </p>
 <p align="left">
-  <a href="https://play.google.com/store/apps/details?id=YOUR_ANDROID_APP_ID" target="_blank">
+  <a href="https://play.google.com/store/apps/details?id=4976216304258537453" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="60"/>
   </a>
 </p>  
